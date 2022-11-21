@@ -93,7 +93,7 @@
 			</div>
 			<div id="investors-in-people">
 				<a href="<?php echo get_field('investors_in_people_url','option'); ?>" target="_blank">
-					<img src="<?php echo get_bloginfo('template_url'); ?>/images/platinum-logo.jpg" alt="Investors in People Platinum" />
+					<img src="<?php echo get_bloginfo('template_url'); ?>/images/platinum-1.jpg" alt="Investors in People Platinum" />
 				</a>
 			</div>
 			<div class="clear"></div>
