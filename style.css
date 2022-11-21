@@ -775,8 +775,10 @@ ul.sub-menu li:last-child a {
 }
 
 #investors-in-people img {
-	width: 100%;
+	width: auto;
 	height: auto;
+	max-height: 100px;
+	margin-left: auto;
 }
 
 #footer-registration {
